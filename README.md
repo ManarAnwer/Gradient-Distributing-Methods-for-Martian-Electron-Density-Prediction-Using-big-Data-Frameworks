@@ -214,14 +214,17 @@ python src/models/train_lightgbm.py --backend dask --workers 4 --threads 2
 If you use this work, please cite the IEEE paper:
 
 ```bibtex
-@article{anwar2025gradient,
-  title   = {Gradient-Boosting Methods for Martian Electron Density Prediction Using Big Data Frameworks},
-  author  = {Anwar, Manar and [Co-authors]},
-  journal = {IEEE Access},
-  year    = {2025},
-  doi     = {10.1109/ACCESS.XXXX.XXXXXXX},
-  url     = {https://ieeexplore.ieee.org/document/11473159}
-}
+@INPROCEEDINGS{11473159,
+  author={Abusirdaneh, Manar Anwer and Abul, Osman},
+  booktitle={2025 International Conference on Computational Intelligence, Security, and Artificial Intelligence (IntelliSecAI)}, 
+  title={Big Data Frameworks for Predicting Martian Ionospheric Electron Density Using Distributed Gradient Methods}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Interplanetary exploration;Space exploration;Space missions;Central Processing Unit;Contacts;Electronic circuits;Protocols;HTTP;Radio access networks;Regional area networks;Martian Ionosphere;Electron Density;Machine Learning;Xgboost;Lightgbm;Catboost;MGS;MARSIS;MAVEN;Big Data;Apache Spark;Dask},
+  doi={10.1109/IntelliSecAI66368.2025.11473159}}
+
 ```
 
 **IEEE format:**
@@ -240,7 +243,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Contact
 
 **Manar Anwar**
-📧 manar.anwar2001@gmail.com
+📧 mabusirdaneh@outlook.com
 🔗 [GitHub @MAK1406](https://github.com/MAK1406)
 
 ---
