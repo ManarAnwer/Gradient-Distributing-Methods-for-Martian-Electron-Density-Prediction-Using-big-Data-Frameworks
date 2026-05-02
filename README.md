@@ -165,24 +165,6 @@ The framework (see *Figure 1*) follows four stages:
 | Fastest train + inference | **XGBoost** |
 | Best parallel speed-up | **XGBoost** (3.8× on Spark/Dask) |
 
----
-
-## Repository Structure
-
-```
-.
-├── data/                      # Raw + preprocessed mission datasets (not tracked)
-├── notebooks/                 # Jupyter notebooks for EDA and experiments
-├── src/
-│   ├── preprocessing/         # Dataset cleaning & fusion
-│   ├── distributed/           # Spark & Dask configuration utilities
-│   ├── models/                # XGBoost / LightGBM / CatBoost training scripts
-│   └── evaluation/            # Metrics & benchmarking
-├── images/                    # Figures used in this README
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
 
 ---
 
