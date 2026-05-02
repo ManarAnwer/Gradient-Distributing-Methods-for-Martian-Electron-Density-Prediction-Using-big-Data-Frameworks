@@ -228,9 +228,7 @@ If you use this work, please cite the IEEE paper:
 ```
 
 **IEEE format:**
-> M. Anwar *et al.*, "Gradient-Boosting Methods for Martian Electron Density Prediction Using Big Data Frameworks," *IEEE Access*, vol. XX, pp. XXXX–XXXX, 2025, doi: 10.1109/ACCESS.XXXX.XXXXXXX.
-
-> ⚠️ Replace the placeholders (`[Co-authors]`, `vol.`, `pp.`, and `doi`) with the exact values from the published paper.
+M. A. Abusirdaneh and O. Abul, "Big Data Frameworks for Predicting Martian Ionospheric Electron Density Using Distributed Gradient Methods," 2025 International Conference on Computational Intelligence, Security, and Artificial Intelligence (IntelliSecAI), Al-Khobar, Saudi Arabia, 2025, pp. 1-7, doi: 10.1109/IntelliSecAI66368.2025.11473159.
 
 ---
 
